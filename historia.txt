@@ -1,7 +1,5 @@
 Hola, soy Fran
 
-Tengo 22 años.
-Nací en GDL pero vive en Zapopan
-Quiere ser data analyst y aprender I.A
+Tengo 22 años
 
-Como tas?
+Qué onda
